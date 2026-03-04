@@ -1,6 +1,6 @@
 team: Python
 
-manager: Lee, Chae
+manager: Melody
 
 members: Juli, Yang
 
