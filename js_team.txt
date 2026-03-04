@@ -1,5 +1,6 @@
 team: JS
 
 manager: Lee
+manager: Choi
 
 members: Mi
